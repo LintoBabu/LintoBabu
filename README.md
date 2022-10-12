@@ -30,7 +30,7 @@
 
 - :dart: Build Various Appliation in Provider,Bloc Architecture
 
-- :mailbox:Contact Me: [![Telegram Badge](https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/clickkhere)
+- :mailbox:Contact Me: [![Telegram Badge](https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MSowner_bot)
 
 ---
 
