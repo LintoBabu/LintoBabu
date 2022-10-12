@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/linto-babu-b93673237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/clickkhere">
+  <a href="https://t.me/MSowner_bot">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://twitter.com/no_capti0n">
