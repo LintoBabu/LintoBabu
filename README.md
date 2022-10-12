@@ -28,7 +28,7 @@
 
 - :seedling: Flutter Developer | Software Engineer | Rest Api | BLoC | Provider | Firebase
 
-- :dart: In my free time, I play Valorant for Entertainment.
+- :dart: Build Various Appliation in Provider,Bloc Architecture
 
 - :mailbox:Contact Me: [![Telegram Badge](https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/clickkhere)
 
