@@ -26,7 +26,7 @@
    :speaking_head:
    Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :seedling: Flutter Developer | Software Engineer | Rest Api | BLoC | Provider | Firebase
+- :seedling: Flutter Developer | Software Tester | Rest Api | BLoC | Firebase | Manual Testing | Automation Testing | Selenium
 
 - :dart: Build Various Appliation in Provider,Bloc Architecture
 
