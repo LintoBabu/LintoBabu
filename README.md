@@ -74,6 +74,10 @@ I'm Linto Babu, a passionate **Software Engineer** with a strong focus on **Flut
 - Developed various mobile applications using Flutter, achieving high download rates and user satisfaction.
 - Focused on scalable and maintainable code through proper state management and API integration.
 
+### Explore More:
+- Check out some of my other projects in my [GitHub repositories](https://github.com/time2strikeback?tab=repositories).
+  - Explore a range of applications and experiments showcasing my development and testing skills.
+
 ---
 
 ## :fire: GitHub Statistics
