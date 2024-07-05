@@ -91,7 +91,6 @@ I'm Linto Babu, a passionate **Software Engineer** with a strong focus on **Flut
 
 - LinkedIn: [Linto Babu](https://www.linkedin.com/in/linto-babu-b93673237/)
 - Telegram: [@MSowner_bot](https://t.me/MSowner_bot)
-- Twitter: [@no_capti0n](https://twitter.com/no_capti0n)
 - Email: linto.babu@outlook.com
 
 Let's connect and create something amazing together!
