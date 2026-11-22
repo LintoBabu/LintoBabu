@@ -21,7 +21,7 @@
 
 | | Project | What it shows |
 |---|---|---|
-| 🏠 | **[Real Estate Marketplace](https://github.com/LintoBabu/real-estate-mern)** | MERN · JWT + Google auth · Cloudinary uploads · Redux Toolkit |
+| 🏠 | **[HavenNest](https://github.com/LintoBabu/havennest)**: real estate marketplace | React 19 + TypeScript · Express 5 · MongoDB · TanStack Query · Zod · tested + CI |
 | 🎬 | **[Netflix Clone](https://github.com/LintoBabu/netflix-clone-flutter)** | Flutter · BLoC · clean architecture · DI · live TMDB API |
 | 🍽️ | **[Restaurant Manager](https://github.com/LintoBabu/restaurant-manager-flutter)** | Flutter · Provider · SQLite · offline POS, invoices, subscriptions |
 
