@@ -1,102 +1,41 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/linto-babu-b93673237/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://t.me/MSowner_bot">
-      <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://twitter.com/no_capti0n">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=time2strikeback&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hiyaaa... Wassup?
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+<h1 align="center">Hi, I'm Linto 👋</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.gif" width="600" height="300"/>
-</div>
+<p align="center">
+  <b>Full-stack developer</b>: Flutter apps and MERN web apps, built with a tester's eye for quality.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Flutter+%C2%B7+Dart+%C2%B7+BLoC;React+%C2%B7+Node+%C2%B7+Express+%C2%B7+MongoDB;I+build+it.+Then+I+try+to+break+it." alt="Typing intro" />
+</p>
 
 ---
 
-## About Me
+### 🧑‍💻 About me
 
-I'm Linto Babu, a passionate **Software Engineer** with a strong focus on **Flutter Development** and **Software Testing**. I love creating robust and user-friendly applications and ensuring their quality through meticulous testing.
+- 📱 I build **cross-platform apps in Flutter** with BLoC, clean architecture and offline storage.
+- 🌐 I build **full-stack web apps** with React, Node.js, Express and MongoDB.
+- 🧪 I have a **QA background** (manual testing, Selenium, TestNG, Jira), so I care about apps that don't break.
+- 🌱 Currently learning: automated testing and CI for the projects below.
 
-### Current Focus:
-- **Flutter Development**: Building seamless cross-platform applications.
-- **Software Testing**: Ensuring software reliability through manual and automated testing.
+### ⭐ Featured projects
 
----
+| | Project | What it shows |
+|---|---|---|
+| 🏠 | **[Real Estate Marketplace](https://github.com/LintoBabu/real-estate-mern)** | MERN · JWT + Google auth · Cloudinary uploads · Redux Toolkit |
+| 🎬 | **[Netflix Clone](https://github.com/LintoBabu/netflix-clone-flutter)** | Flutter · BLoC · clean architecture · DI · live TMDB API |
+| 🍽️ | **[Restaurant Manager](https://github.com/LintoBabu/restaurant-manager-flutter)** | Flutter · Provider · SQLite · offline POS, invoices, subscriptions |
 
-## :man_technologist: Skills
+### 🛠️ Tech stack
 
-### Programming Languages & Frameworks:
-- **Flutter (Dart)**
-- **Python**
-- **HTML, CSS**
-- **JavaScript**
-- **Java**
-- **MySQL**
-- **MongoDB**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,mongodb,js,html,css,tailwind&perline=10" alt="Tech stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=firebase,redux,python,mysql,git,github,postman,androidstudio,vscode,selenium&perline=10" alt="Tools" />
+</p>
 
-### Software Testing:
-- **Manual Testing**
-- **Automated Testing with Selenium & TestNG**
-- **Bug Tracking with Jira**
+### 📈 GitHub activity
 
-### Tools & Technologies:
-- **Git & GitHub**
-- **REST API Development**
-- **Firebase Integration**
-- **BLoC and Provider for State Management**
-- **IDEs: VS Code, Android Studio, Eclipse, PyCharm**
-
----
-
-## :seedling: Projects
-
-### Featured Projects:
-- **[Public Transportation Management System](#)**:
-  - A Python and SQL-based system to improve real-time updates and operational efficiency for public transportation schedules.
-  - Integrated with user modules for customers, drivers, and administrators.
-
-- **[Blueline Tour Package Website](#)**:
-  - Conducted comprehensive software testing using both manual and automated methodologies.
-  - Reduced post-launch defects by 20% and streamlined the testing process with Selenium WebDriver and TestNG.
-
-### Personal Contributions:
-- Developed various mobile applications using Flutter, achieving high download rates and user satisfaction.
-- Focused on scalable and maintainable code through proper state management and API integration.
-
-### Explore More:
-- Check out some of my other projects in my [GitHub repositories](https://github.com/time2strikeback?tab=repositories).
-  - Explore a range of applications and experiments showcasing my development and testing skills.
-
----
-
-## :fire: GitHub Statistics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=time2strikeback&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=time2strikeback&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## :mailbox: Get in Touch
-
-- LinkedIn: [Linto Babu](https://www.linkedin.com/in/linto-babu-b93673237/)
-- Telegram: [@MSowner_bot](https://t.me/MSowner_bot)
-- Email: linto.babu@outlook.com
-
-Let's connect and create something amazing together!
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="200"/>
-</div>
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LintoBabu&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LintoBabu&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
