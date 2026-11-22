@@ -15,13 +15,24 @@
 - 📱 I build **cross-platform apps in Flutter** with BLoC, clean architecture and offline storage.
 - 🌐 I build **full-stack web apps** with React, Node.js, Express and MongoDB.
 - 🧪 I have a **QA background** (manual testing, Selenium, TestNG, Jira), so I care about apps that don't break.
-- 🌱 Currently learning: automated testing and CI for the projects below.
+- 🧪 I use API and UI tests in GitHub Actions to verify HavenNest changes.
 
 ### ⭐ Featured projects
 
+#### [HavenNest](https://github.com/LintoBabu/havenNest)
+
+A full-stack marketplace for renting and buying homes in India. Renters can find family-friendly homes, compare deposits and maintenance, and contact owners. Owners can publish listings with different details for rent and sale.
+
+Built with **React 19, TypeScript, TanStack Query, Express 5 and MongoDB**. Includes shareable search filters, responsive photos, and automated API and UI tests in GitHub Actions.
+
+<a href="https://github.com/LintoBabu/havenNest">
+  <img width="720" src="https://raw.githubusercontent.com/LintoBabu/havenNest/main/docs/screenshots/search-dark.jpg" alt="HavenNest search results with apartment and family-friendly rental filters" />
+</a>
+
+#### More projects
+
 | | Project | What it shows |
 |---|---|---|
-| 🏠 | **[HavenNest](https://github.com/LintoBabu/havenNest)**: real estate marketplace | React 19 + TypeScript · Express 5 · MongoDB · TanStack Query · Zod · tested + CI |
 | 🎬 | **[Netflix Clone](https://github.com/LintoBabu/netflix-clone-flutter)** | Flutter · BLoC · clean architecture · DI · live TMDB API |
 | 🍽️ | **[Restaurant Manager](https://github.com/LintoBabu/restaurant-manager-flutter)** | Flutter · Provider · SQLite · offline POS, invoices, subscriptions |
 
